@@ -11,7 +11,7 @@ def get_text(raw_url):
 	return fetched_text
 
 def selection(key):
-	option = st.selectbox('How would you like to provide the data?',('URL', 'Paste or write your text'), index=1, key=key)
+	option = st.selectbox('How would you like to provide the data?',('URL', 'Paste/Write Text'), index=1, key=key)
 	st.write('You selected:', option)
 	if option == 'Paste/Write Text' :
 		message = st.text_area("Enter Text", "Type Your Text Here ..", key=key+'text')
