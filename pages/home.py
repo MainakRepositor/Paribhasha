@@ -19,9 +19,7 @@ def main():
 			#### Named Entity Recognition and Topic Modelling:
 			+ Named Entites like organistion person etc are recognised and top topics from the corpus
 				are found based on LDA modelling.
-			#### Machine Translations:
-			+ Machine Translation, or aka Language Translation. The app uses Google Translate API. 
-			
+					
 			#### Text Summarisation:
 			+ It summarizes the given text into few lines. One can copy paste the article or may direclty pass the URL. It has options to use Gensim, Sumy analysers also.
 			""")
