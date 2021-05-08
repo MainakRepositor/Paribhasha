@@ -15,8 +15,7 @@ PAGES = {
     "Basic NLP": pages.basicNLP,
     "NER and Topic Modelling": pages.nertm,
     "Text Summarization": pages.textSummarization,
-    "Machine Translation": pages.machineTranlation
-    #"Caption Generator": pages.captionGenerator
+    
 }
 
 
@@ -40,9 +39,9 @@ def main():
     
     st.sidebar.info(
         """
-        This App uses State of the Art free tier API's from different paltforms
+        This Web-App uses API's from different paltforms 
         like IBM,Google Cloud and libraries like Spacy,Genism, NLTK and Textblob etc. 
-        It uses Streamlit for implemention of beatiful and easy web app.
+        
         """
     )
     
