@@ -41,6 +41,8 @@ def main():
         """
         This Web-App uses API's from different paltforms 
         like IBM,Google Cloud and libraries like Spacy,Genism, NLTK and Textblob etc. 
+        This application also makes extensive use of on-board webscrapping to scrape
+        data from different urls entered by the user. 
         
         """
     )
@@ -56,7 +58,8 @@ def main():
 
 
     
-    
+    st.sidebar.title("Developer Details")
+    st.sidebar.markdown("""This web application was made by Mr. Mainak Chaudhuri, a B.tech undergraduate of the SRM University, India""")
     st.sidebar.markdown("""  [Github](https://github.com/MainakRepositor)""") #change all thses three to  to iamge
     st.sidebar.markdown("""  [Linkedin](https://linkedin.com/in/mainak-chaudhuri-127898176)""")
     st.sidebar.markdown("""  [HackerRank](https://www.hackerrank.com/sultankhilji001?hr_r=1)""")
