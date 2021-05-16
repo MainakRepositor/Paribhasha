@@ -1,3 +1,4 @@
+
 # Paribhasha
 
 <hr>
@@ -13,3 +14,6 @@ A complete NLP application used to perform almost all sorts of Natural Language 
 
 ![ss2](https://user-images.githubusercontent.com/64016811/118386689-ed42cf80-b636-11eb-9c6f-d5ac765343bb.jpg)
 
+![ss3](https://user-images.githubusercontent.com/64016811/118386864-1f086600-b638-11eb-995e-b0ce5937ccde.jpg)
+
+![image](https://user-images.githubusercontent.com/64016811/118386905-56771280-b638-11eb-8c7a-8bacd7d85422.png)
