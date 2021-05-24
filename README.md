@@ -41,6 +41,13 @@ Converting a big text document into a small paragraph / phrase that conveys the 
 
 ![paribhasa design](https://user-images.githubusercontent.com/64016811/119299793-476a1300-bc7d-11eb-8276-d411fb69d879.png)
 
+<hr>
+
+### Flowchart:
+
+![flowchart](https://user-images.githubusercontent.com/64016811/119302641-0fb19a00-bc82-11eb-842a-9ea9498238ae.png)
+
+
 
 ### Link to the website : https://paribhasha.herokuapp.com/
 
