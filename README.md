@@ -61,3 +61,20 @@ Converting a big text document into a small paragraph / phrase that conveys the 
 ![ss3](https://user-images.githubusercontent.com/64016811/118386864-1f086600-b638-11eb-995e-b0ce5937ccde.jpg)
 
 ![image](https://user-images.githubusercontent.com/64016811/118386905-56771280-b638-11eb-8c7a-8bacd7d85422.png)
+
+<hr>
+
+### Tools Used:
+<ol>
+  <li>Python</li>
+  <ol>
+    <li>NLTK</li>
+    <li>PIL</li>
+    <li>Streamlit</li>
+    <li>Genism</li>
+    <li>Sumy</li>
+  </ol>
+    
+  <li>Heroku</li>
+  <li>Git-deploy and version control</li>
+</ol>
