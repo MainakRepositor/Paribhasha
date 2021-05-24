@@ -4,9 +4,7 @@ import streamlit as st
 
 import pages.home
 import pages.basicNLP
-#import pages.captionGenerator
 import pages.nertm
-import pages.machineTranlation
 import pages.textSummarization
 
 
