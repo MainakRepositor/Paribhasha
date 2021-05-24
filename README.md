@@ -37,6 +37,10 @@ Converting a big text document into a small paragraph / phrase that conveys the 
 
 <hr>
 
+### Design and Workflow:
+
+![paribhasa design](https://user-images.githubusercontent.com/64016811/119299793-476a1300-bc7d-11eb-8276-d411fb69d879.png)
+
 
 ### Link to the website : https://paribhasha.herokuapp.com/
 
