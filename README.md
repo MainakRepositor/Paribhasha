@@ -1,5 +1,8 @@
+# PARIBHASHA : Complete NLP Solution
 
-# Paribhasha
+
+
+### Link to the website : https://paribhasha.herokuapp.com/
 
 <hr>
 
@@ -46,11 +49,6 @@ Converting a big text document into a small paragraph / phrase that conveys the 
 ### Flowchart:
 
 ![flowchart](https://user-images.githubusercontent.com/64016811/119302641-0fb19a00-bc82-11eb-842a-9ea9498238ae.png)
-
-
-
-### Link to the website : https://paribhasha.herokuapp.com/
-
 
 ### Screen-shots:
 
