@@ -13,6 +13,18 @@ A complete NLP application used to perform almost all sorts of Natural Language 
   <li>Text Summarization</li>
 </ul>
 
+#### Home : 
+It is the first page / homepage of the application. It provides a basic description of the project, the aims of the project and ways to effectively use it. It highlights the basic features of the software.
+
+#### Basic NLP:
+This page performs basic NLP-based functions such as extraction of tokens and lemma from text, identifying parts of speech, sentiment analysis of a given statement and generating word clouds out of the words in context. 
+
+#### NER and Topic Modelling:
+Performs Name Entity Recognition and Topic Modelling. Named entity recognition (NER)is probably the first step towards information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. NER is used in many fields in Natural Language Processing (NLP), and it can help answering many real-world questions, such as:
+-Which companies were mentioned in the news article?
+-Were specified products mentioned in complaints or reviews?
+-Does the tweet contain the name of a person? Does the tweet contain this person’s location?
+
 ### Link to the website : https://paribhasha.herokuapp.com/
 
 
