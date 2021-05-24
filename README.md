@@ -5,7 +5,13 @@
 
 ### About App:
 
-A complete NLP application used to perform almost all sorts of Natural Language Processing operations for any user. It has a wide range of applications with a set of trustworthy results
+A complete NLP application used to perform almost all sorts of Natural Language Processing operations for any user. It has a wide range of applications with a set of trustworthy results. The application comprises of 4 main pages, held together under the main-class app. They are:
+<ul>
+  <li>Home</li>
+  <li>Basic NLP</li>
+  <li>NER and Topic Modelling</li>
+  <li>Text Summarization</li>
+</ul>
 
 ### Link to the website : https://paribhasha.herokuapp.com/
 
