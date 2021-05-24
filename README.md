@@ -16,8 +16,10 @@ A complete NLP application used to perform almost all sorts of Natural Language 
 ### Home : 
 It is the first page / homepage of the application. It provides a basic description of the project, the aims of the project and ways to effectively use it. It highlights the basic features of the software.
 
+
 ### Basic NLP:
 This page performs basic NLP-based functions such as extraction of tokens and lemma from text, identifying parts of speech, sentiment analysis of a given statement and generating word clouds out of the words in context. 
+
 
 ### NER and Topic Modelling:
 Performs Name Entity Recognition and Topic Modelling. Named entity recognition (NER)is probably the first step towards information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. NER is used in many fields in Natural Language Processing (NLP), and it can help answering many real-world questions, such as:
@@ -26,6 +28,15 @@ Performs Name Entity Recognition and Topic Modelling. Named entity recognition (
 <li>Were specified products mentioned in complaints or reviews?</li>
 <li>Does the tweet contain the name of a person? Does the tweet contain this person’s location?</li>
 </ol>
+
+Topic modeling is an unsupervised machine learning technique that's capable of scanning a set of documents, detecting word and phrase patterns within them, and automatically clustering word groups and similar expressions that best characterize a set of documents.
+
+
+### Text Summarization:
+Converting a big text document into a small paragraph / phrase that conveys the gist meaning of the entire document. Summarization is the task of condensing a piece of text to a shorter version, reducing the size of the initial text while at the same time preserving key informational elements and the meaning of content. Since manual text summarization is a time expensive and generally laborious task, the automatization of the task is gaining increasing popularity and therefore constitutes a strong motivation for academic research.
+
+<hr>
+
 
 ### Link to the website : https://paribhasha.herokuapp.com/
 
