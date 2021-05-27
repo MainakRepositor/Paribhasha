@@ -6,7 +6,7 @@
 
 <hr>
 
-## About App:
+## About App :
 
 A complete NLP application used to perform almost all sorts of Natural Language Processing operations for any user. It has a wide range of applications with a set of trustworthy results. The application comprises of 4 main pages, held together under the main-class app. They are:
 <ul>
@@ -20,11 +20,11 @@ A complete NLP application used to perform almost all sorts of Natural Language 
 It is the first page / homepage of the application. It provides a basic description of the project, the aims of the project and ways to effectively use it. It highlights the basic features of the software.
 
 
-### Basic NLP:
+### Basic NLP :
 This page performs basic NLP-based functions such as extraction of tokens and lemma from text, identifying parts of speech, sentiment analysis of a given statement and generating word clouds out of the words in context. 
 
 
-### NER and Topic Modelling:
+### NER and Topic Modelling :
 Performs Name Entity Recognition and Topic Modelling. Named entity recognition (NER)is probably the first step towards information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. NER is used in many fields in Natural Language Processing (NLP), and it can help answering many real-world questions, such as:
 <ol>
 <li>Which companies were mentioned in the news article?</li>
@@ -35,12 +35,12 @@ Performs Name Entity Recognition and Topic Modelling. Named entity recognition (
 Topic modeling is an unsupervised machine learning technique that's capable of scanning a set of documents, detecting word and phrase patterns within them, and automatically clustering word groups and similar expressions that best characterize a set of documents.
 
 
-### Text Summarization:
+### Text Summarization :
 Converting a big text document into a small paragraph / phrase that conveys the gist meaning of the entire document. Summarization is the task of condensing a piece of text to a shorter version, reducing the size of the initial text while at the same time preserving key informational elements and the meaning of content. Since manual text summarization is a time expensive and generally laborious task, the automatization of the task is gaining increasing popularity and therefore constitutes a strong motivation for academic research.
 
 <hr>
 
-### Design and Workflow:
+### Design and Workflow :
 
 ![paribhasa design](https://user-images.githubusercontent.com/64016811/119299793-476a1300-bc7d-11eb-8276-d411fb69d879.png)
 
@@ -62,7 +62,7 @@ Converting a big text document into a small paragraph / phrase that conveys the 
 
 <hr>
 
-### Tools Used:
+### Tools Used :
 <ol>
   <li>Python</li>
   <ol>
