@@ -50,7 +50,7 @@ def main():
     st.sidebar.title("Contact Developer")
     st.sidebar.info(
         """
-        This app is develop by Aryan. You can contact me at
+        This app is develop by Mainak. You can contact me at
         [Mainak Chaudhuri](https://mainakfolio.netlify.app).
 """
     )
