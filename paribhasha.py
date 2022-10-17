@@ -15,7 +15,7 @@ PAGES = {
     "Basic NLP": pages.basicNLP,
     "NER and Topic Modelling": pages.nertm,
     "Text Summarization": pages.textSummarization,
-    "Machine Translation": pages.machineTranlation
+    #"Machine Translation": pages.machineTranlation
     #"Caption Generator": pages.captionGenerator
 }
 
