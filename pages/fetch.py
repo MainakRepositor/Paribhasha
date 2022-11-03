@@ -22,9 +22,9 @@ def selection(key):
 
 def front_up():
     html_temp = """
-		<div style="background-color:blue;padding:10px">
-		<h1 style="color:white;text-align:center;">Paribhasha</h1>
-		<h4 style="color:white;text-align:center;">Natural Language Processing On the Go...</h4>
+		<div style="background-color:green;padding:10px">
+		<h1 style="color:white;text-align:center;">WhatsApp Chat Analyzer</h1>
+		<h4 style="color:white;text-align:center;">Analyze What your WhatsApp says!!!</h4>
 		</div>
 		<br></br>
 		<br></br>
