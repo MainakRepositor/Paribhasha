@@ -4,12 +4,7 @@ from pages.fetch import*
 def main():
 	front_up()
 	
-	st.markdown("""
-			
-			 This is a Natural Language Processing(NLP) Based App useful for basic NLP task
-			implemented using State of he Art API's on Streamlit Framework
-			""")
-	### features
+	
 
 	st.header('Features')
 
