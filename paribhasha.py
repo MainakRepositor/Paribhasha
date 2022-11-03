@@ -15,15 +15,14 @@ PAGES = {
     "Basic NLP": pages.basicNLP,
     "NER and Topic Modelling": pages.nertm,
     "Text Summarization": pages.textSummarization,
-    #"Machine Translation": pages.machineTranlation
-    #"Caption Generator": pages.captionGenerator
+    
 }
 
 
 def main():
     
-    st.sidebar.title("Paribhasha")
-    st.sidebar.text("Natural Language Processing On the Go")
+    st.sidebar.title("WhatsApp Chat Analyzer")
+    st.sidebar.text("Analyze What your WhatsApp says!!")
     
     st.sidebar.title("Navigation")
     page = st.sidebar.radio("Go to", list(PAGES.keys()))
@@ -47,16 +46,8 @@ def main():
     )
     
     
-    st.sidebar.title("Contact Developer")
-    st.sidebar.info(
-        """
-        This app is develop by Mainak. You can contact me at
-        [Mainak Chaudhuri](https://mainakfolio.netlify.app).
-"""
-    )
-
-   #st.sidebar.markdown("[![Github](https://github.com/aryanc55/NLPJenny/blob/master/assests/github.png?raw=true)](https://github/aryanc55)")
     
+  
    
 
     
